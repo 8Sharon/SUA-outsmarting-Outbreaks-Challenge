@@ -94,7 +94,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## 📬 Contact
 
-**Project Lead:** [Sharon Kamau]  
+**Project Lead:** Sharon Kamau  
 📧 **Email:** [njerisharon611@gmail.com](njerisharon611@gmail.com)  
 
 
