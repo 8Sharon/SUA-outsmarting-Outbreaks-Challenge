@@ -1,6 +1,6 @@
 # SUA Outsmarting Outbreaks Challenge
 
-This project i developed part of the SUA (Scale Up Africa) Outsmarting Outbreaks Challenge a datadriven initiative aimed at enhancing public health response strategies. I focused on leveraging data science, machine learning, and innovative thinking to predict, monitor, and manage disease outbreaks more effectively across Africa and beyond.
+This project I developed part of the SUA (Scale Up Africa) Outsmarting Outbreaks Challenge a datadriven initiative aimed at enhancing public health response strategies. I focused on leveraging data science, machine learning, and innovative thinking to predict, monitor, and manage disease outbreaks more effectively across Africa and beyond.
 
 ![outbreaks](https://static.wixstatic.com/media/54f547_85bfae4319104238abe80d876adb58eb~mv2.jpg/v1/fill/w_568,h_304,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/54f547_85bfae4319104238abe80d876adb58eb~mv2.jpg)
 
